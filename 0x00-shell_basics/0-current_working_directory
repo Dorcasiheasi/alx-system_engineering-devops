@@ -1,2 +1,2 @@
-#!/bin/bash current_working_directory
-#!/bin/bash the_directory
+#!/bin/bash
+pwd
