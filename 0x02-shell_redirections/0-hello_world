@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod +x 0-hello_world
-ls > 0-hello_world
+printf "0-hello_world\n
